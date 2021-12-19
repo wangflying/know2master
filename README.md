@@ -30,7 +30,7 @@ a=>operation: 创意: 可能达方法
 b=>operation: 现实: 可能的实施
 c=>operation: 客户认知价值: 人和事的需求
 
-a->b->c->a
+a->b->c
 ```
 
 ## 刻意练习
