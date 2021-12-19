@@ -26,9 +26,9 @@
 
 2. 创新三要素： 
 ```flow
-a=>operation: 创意: 可能达方法
-b=>operation: 现实: 可能的实施
-c=>operation: 客户认知价值: 人和事的需求
+a=>operation: 创意(可能达方法)
+b=>operation: 现实(可能的实施)
+c=>operation: 客户认知价值(人和事的需求)
 
 a->b->c
 ```
